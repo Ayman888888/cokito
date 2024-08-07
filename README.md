@@ -1,2 +1,2 @@
 # cokito
-cookies checker
+netflix cookies checker
